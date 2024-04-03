@@ -1,0 +1,16 @@
+{
+  "name": "listaexercicio-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Exercicio-01.js",
+  "scripts": {
+    "start": "nodemon listaexercicio-02.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
